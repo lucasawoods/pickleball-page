@@ -1,0 +1,20 @@
+section {
+    text-align: center;
+    margin: 1%;
+}
+a {
+    font-size: 30px;
+    margin: 2%;
+}
+p {
+    margin-left: 35%;
+    margin-right: 35%;
+}
+h1 {
+    text-align: center;
+}
+img {
+    height: 300px;
+    display: inline-block;
+    align-items: center;
+}
